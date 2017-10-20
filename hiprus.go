@@ -4,7 +4,7 @@ package hiprus
 import (
 	"net/url"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/tbruyelle/hipchat-go/hipchat"
 )
 
